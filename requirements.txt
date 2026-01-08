@@ -1,8 +1,10 @@
-pandas
-scikit-learn
-numpy
-tensorflow
-joblib
-matplotlib
 streamlit
+pandas
+numpy
+matplotlib
+plotly
+tensorflow
+scikit-learn
+joblib
 reportlab
+
